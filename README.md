@@ -1,73 +1,56 @@
 ## About the system:
 
-A smart, web-based information system, built for the "Ramot-Yam" High School Learning Center in Michmoret. There are private lessons for students provided by the teachers, as well as other activities at the Learning Center.
+A smart, web-based information system, built for the "Ramot-Yam" High School Learning Center in Michmoret.
+The website is an organization system for the learning center managers, teachers, and students.
 
-The main purpose of this system is to make the assigning processes of the private lessons more efficient, taking into account systemic and personal constraints and generating business insights for optimization.
+The Learning Center provides general activities and private lessons.
 
-The system assists the Learning Center director to follow and monitor student progress, manage schedules of the center and center activities, privilege management, report generation, and finally assists in the decision-making process so each user has its own interface where he can perform actions relevant to him.
+The main purpose of the system is to match students and teachers for private lessons efficiently while taking into account systemic and personal constraints. In addition, the system generates business insights for optimization.
 
- 
+The system assists the Learning Center director to manage the users, monitor student’s progress, and manage the schedules of the center activities and private lessons.
 
 ## Main features:
 - Automatic system notifications
 
-- Messaging system between an administrator and students / teachers
+- Messages mechanism between administrators and students/teachers.
 
-- System login - using a username and password
+- System login using a username and a password
 
-- User Management - administrator can edit / delete / add a student / teacher to the system
+- User Management - Administrators can edit, delete, and add other users to the system.
 
 - Display schedules with user-specific activities
 
-- Student Application Management – administrator  can reject / approve student requests for register / cancel the student's participation in a lesson
+- Student Application Management – Administrators can approve or reject student requests for registration or cancelation of their participation in a lesson.
 
-- Teachers Request Management - administrator  can reject / approve teachers requests for lessons cancellation
+- Teachers Request Management - administrator can approve or reject teacher requests for lessons cancellation.
 
-- System reports - Teachers hours report, student feedback, demand by subjects
+- System reports - Administrators can get teacher hours report and student feedbacks.
 
-- Producing feedback on students' progress - After each lesson, the teacher must fill in feedback on the students participated as well as mark which of the students who signed up was present and who did not.
+- Producing feedback on student’s progress - After each lesson, the teacher must fill feedback on the students who participated and mark which of the students who signed was present.
 
-- Eligibility Management - An administrator can deny eligibility for lessons at his or her discretion. In addition, the system automatically blocks students who have missed out lessons without notifying 3 times and updates the blocked student and administrator. The administrator can remove the student from the non-eligible list at any time. A blocked (ineligible) student cannot apply for lessons, his / her applications for enrollment in pending status are automatically rejected, and he / she is removed from all lessons to which he/she is registered (also automatically).
+- Eligibility Management - The system automatically blocks students who have missed out on 3 lessons without notifying and updates the blocked student and the administrators by automatic message.
+In Addition, the administrator can add or remove students from the non-eligible list at any time.
+A blocked (ineligible) student cannot apply for lessons, their pending applications are automatically rejected, and they are automatically removed from all lessons to which they are registered.
 
 - Submit Enrollment Requests / Cancel Attendance - A student can submit a request to register / cancel participation in a lesson. The status request is pending until it will be approved by the administrator.
 
-- Viewing Requests - A student / teacher can view their requests at any time and follow up their status
+- Viewing Requests - Students and teachers can view their requests at any time and follow up on their status.
 
  
 ## How to use the system:
 
-The system is on the server so one can log in through the following as a registered user with a username and password
-
-http://proj.ruppin.ac.il/igroup92/prod/default.aspx
+Go to http://proj.ruppin.ac.il/igroup92/prod/default.aspx and use the following usernames and passwords:
 
 #### Admin:
-
-Username – 9999
-
-Password – 123456
-
-#### Student #1:
-
-Username – 9876
-
-Password – 1122
-
-#### Student #2:
-
-Username – 9877
-
-Password – 1123
-
-#### Student #3:
-
-Username – 12322
-
-Password – 1234
-
+Username – 9999, Password – 123456
 #### Teacher:
+Username – 9658, Password – 35454
+#### Student #1:
+Username – 9876, Password – 1122
+#### Student #2:
+Username – 9877, Password – 1123
+#### Student #3:
+Username – 12322, Password – 1234
 
-Username – 9658
-
-Password – 35454
 
  
