@@ -19,7 +19,7 @@ The system assists the Learning Center director to follow and monitor student pr
 
 - Display schedules with user-specific activities
 
-- Student Application Management – administrator  can reject / approve student requests for enrollment / withdrawal
+- Student Application Management – administrator  can reject / approve student requests for register / cancel the student's participation in the lesson
 
 - Teachers Request Management - administrator  can reject / approve teachers requests for lessons cancellation
 
@@ -29,7 +29,7 @@ The system assists the Learning Center director to follow and monitor student pr
 
 - Eligibility Management - An administrator can deny eligibility for lessons at his or her discretion. In addition, the system automatically blocks students who have missed out lessons without notifying 3 times and updates the blocked student and administrator. The administrator can remove the student from the non-eligible list at any time. A blocked (ineligible) student cannot apply for lessons, his / her applications for enrollment in pending status are automatically rejected, and he / she is removed from all lessons to which he/she is registered (also automatically).
 
-- Submit Enrollment Requests / Cancel Attendance - A student can submit a request to register / cancel a lesson. The status request is pending until it will be approved by the administrator.
+- Submit Enrollment Requests / Cancel Attendance - A student can submit a request to register / cancel participation in a lesson. The status request is pending until it will be approved by the administrator.
 
 - Viewing Requests - A student / teacher can view their requests at any time and follow up their status
 
