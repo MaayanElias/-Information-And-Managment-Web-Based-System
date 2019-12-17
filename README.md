@@ -19,7 +19,7 @@ The system assists the Learning Center director to follow and monitor student pr
 
 - Display schedules with user-specific activities
 
-- Student Application Management – administrator  can reject / approve student requests for register / cancel the student's participation in the lesson
+- Student Application Management – administrator  can reject / approve student requests for register / cancel the student's participation in a lesson
 
 - Teachers Request Management - administrator  can reject / approve teachers requests for lessons cancellation
 
