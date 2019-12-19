@@ -42,7 +42,7 @@ A blocked (ineligible) student cannot apply for lessons, their pending applicati
 Go to http://proj.ruppin.ac.il/igroup92/prod/default.aspx and use the following usernames and passwords:
 
 #### Admin:
-Username – 9999, Password – 123456
+Username – 9999, Password – 98765
 #### Teacher:
 Username – 9658, Password – 35454
 #### Student #1:
