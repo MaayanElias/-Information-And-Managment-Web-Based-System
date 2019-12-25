@@ -1,4 +1,4 @@
-## About the system:
+## Learning Center Schedule Manager
 
 A smart, web-based information system, built for the "Ramot-Yam" High School Learning Center in Michmoret.
 The website is an organization system for the learning center managers, teachers, and students.
@@ -9,7 +9,7 @@ The main purpose of the system is to match students and teachers for private les
 
 The system assists the Learning Center director to manage the users, monitor student’s progress, and manage the schedules of the center activities and private lessons.
 
-## Main features:
+## Main features
 - Automatic system notifications
 
 - Messages mechanism between administrators and students/teachers.
@@ -37,7 +37,7 @@ A blocked (ineligible) student cannot apply for lessons, their pending applicati
 - Viewing Requests - Students and teachers can view their requests at any time and follow up on their status.
 
  
-## How to use the system:
+## How to use the system
 
 Go to http://proj.ruppin.ac.il/igroup92/prod/default.aspx and use the following usernames and passwords:
 
